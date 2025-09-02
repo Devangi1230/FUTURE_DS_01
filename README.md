@@ -10,12 +10,11 @@ This project provides an interactive analysis of sales and order trends between 
 - Return percentages and overall order trends
 
 ## Dataset
-The dataset covers sales transactions from 2009 to 2011, 
-including:
+# The dataset covers sales transactions from 2009 to 2011, including:
 -**Order details**
 -**Product information**
--**Customer details**
--**Country-level sales**
+-**Customer details**-
+=**Country-level sales**
 
 ## Key Insights
 -**Total Orders (2009–10): 29K | Sales: 9,539K**
